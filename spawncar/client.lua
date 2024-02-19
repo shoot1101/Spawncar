@@ -30,6 +30,14 @@ Citizen.CreateThread(function()
     -- Spawn vehicles
     for _, item in pairs(vehicles) do
         local vehicle = CreateVehicle(GetHashKey(item.Model), item.X, item.Y, item.Z, item.A, false, false)
+        --SetVehicleDoorOpen(vehicle, 0)  -- Front Left Door
+	    --SetVehicleDoorOpen(vehicle, 1)  -- Front Right Door
+	    --SetVehicleDoorOpen(vehicle, 2)  -- Back Left Door
+	    --SetVehicleDoorOpen(vehicle, 3)  -- Back Right Door
+	    --SetVehicleDoorOpen(vehicle, 4)  -- Hood
+	    --SetVehicleDoorOpen(vehicle, 5)  -- Trunk
+	    --SetVehicleDoorOpen(vehicle, 6)  -- Back
+	    --SetVehicleDoorOpen(vehicle, 7)  -- Back2
         SetVehicleOnGroundProperly(vehicle)
         SetVehicleDoorsLocked(vehicle, 2)
         SetVehicleWheelSize(vehicle, 0.5)
