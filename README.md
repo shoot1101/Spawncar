@@ -1,12 +1,11 @@
 # 🚗 Spawncar
 
-<hr> 
 
 ![GitHub followers](https://img.shields.io/github/followers/shoot1101?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/shoot1101/Spawncar?style=for-the-badge) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]((https://discord.gg/X36mxQTk5b)) ![Twitch Status](https://img.shields.io/twitch/status/BobMarly1?style=for-the-badge)
 
 
 ## **ℹ️ Informations**
-<hr>
+
 
 **English** :
 
@@ -21,20 +20,20 @@ Bonjour à tous !
 Aujourd’hui, j’ai le plaisir de vous offrir un script qui permet de faire spawn des véhicules comme dans un concessionnaire ou autre. Vous pouvez changer les couleurs de chaque véhicule, ajouter les néons, locker les véhicules, laisser les portes ouvertes ou non,... J’ai remarqué que certaines personnes essayaient de vendre cette ressource, mais comme j’ai moi-même créé quelque chose de similaire dans le passé, j’ai décidé de la partager avec vous gratuitement aujourd’hui. J’espère sincèrement que vous apprécierez ce script et qu’il ajoutera une touche de plaisir à vos expériences. Tirez-en le meilleur parti et amusez-vous bien !
 
 ## **📷Screenshot** 
-<hr>
+
 
 ![20240219120027_1](https://github.com/shoot1101/Spawncar/assets/33040669/2104c0ba-b480-45aa-abf7-d0fbd9c6c793)
 
 ![Capture](https://github.com/shoot1101/Spawncar/assets/33040669/fbe37741-5c37-46e1-896b-7337b99d5ca2)
 
 ## **🧱Exigences et ⚙️Configuration**
-<hr>
+
 
 ```lua
 ensure spawncar
 ```
 
 ## **💌Crédits**
-<hr>
+
 
 **Bob's & Co**
